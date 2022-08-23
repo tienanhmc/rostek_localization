@@ -1,0 +1,8 @@
+prefix=/home/ncta/carto_ws/install
+
+Name: rostek_localization
+Description: Description of rostek_localization
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

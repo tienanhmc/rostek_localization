@@ -1,0 +1,2 @@
+rostek_localization
+-DCATKIN_DEVEL_PREFIX=/home/ncta/carto_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ncta/carto_ws/install -G Unix Makefiles
